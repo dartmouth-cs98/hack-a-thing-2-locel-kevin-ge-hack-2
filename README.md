@@ -15,12 +15,12 @@ Well, firstly, I now know how to do EDA and text cleaning. This was far more com
 I think I built all the needed files already so the initial setup may not be needed for a user downloading this repository 
 
 ### Who did what
-I worked alone and did everything myself. 
+I worked alone and did everything myself. Of course I also used the tutorial video and corresponding github code base. 
 
 ### What Didn't Work
-I was able to build what I attempted using the tutorial and corresponding code. 
+I was able to build what I attempted using the tutorial and corresponding code. It was tricky to get all the syntax down from the video but that really wasn't an issue. 
 
 ### Honor Code
-As I said in hack-a-thing-1, I essentially followed the instructor in the youtube video step-by-step and really didn't add any of my own unique code but I think that's to be expected given the nature of these tutorials. As always, let me know if any of this is a concern and I can redo this tutorial with the knowledge I know have in case anything here violates the honor code. 
+As I said in hack-a-thing-1, I essentially followed the instructor in the youtube video step-by-step and really didn't add any of my own unique code but I think that's to be expected given the nature of these tutorials. As always, let me know if any of this is a concern and I can redo this tutorial with the knowledge I know have in case anything here violates the honor code.
 
 The link is here: https://www.youtube.com/watch?v=xvqsFTUsOmc
